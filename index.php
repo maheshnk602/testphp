@@ -1,6 +1,6 @@
 <?php
   if($_POST){
-    $emailTo="mkcreations602@gmail.com";
+    $emailTo="@gmail.com";
     $subject=$_POST['subject'];
     $content=$_POST['content'];
     $headers='From: '.$_POST['email'];
